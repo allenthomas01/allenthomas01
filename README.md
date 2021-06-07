@@ -1,6 +1,6 @@
 - 👋 Hi, I’m ALLEN THOMAS
 - 👀 I’m interested in web development, cyber security and open source
-- 🌱 I’m currently a cse engineering student
+- 🌱 I’m currently a cse undergraduate
 
 <!---
 coding-sorcerer-1/coding-sorcerer-1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
