@@ -5,7 +5,7 @@
 
 - I had taken  part in Google Cloud Ready program 2021 (April to June) and have acquired badges , you can view them here  👉 https://www.qwiklabs.com/public_profiles/f276efeb-f2fa-439d-95a7-033bd31530f6
 
- <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=coding-sorcerer-1&theme=chartreuse-dark&show_icons=true&include_all_commits=true&count_private=true&hide_border=true"/> &nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coding-sorcerer-1&theme=chartreuse-dark"/>
+ <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=coding-sorcerer-1&theme=chartreuse-dark&show_icons=true&include_all_commits=true&count_private=true"/> &nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coding-sorcerer-1&theme=chartreuse-dark"/>
  
 <!---
 coding-sorcerer-1/coding-sorcerer-1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
