@@ -1,4 +1,4 @@
-- 👋 Hi, **I’m  A L L E N**   **T H O M A S**
+- 👋 Hi, **I’m  A L L E N** &nbsp; **T H O M A S**
 - 👀 I’m interested in  ❤️ web development, cyber security and open source  ❤️
 - 🌱 I’m currently a 🧑‍💻 cse undergraduate
 - 🤗 You can reach me on twitter 👉 https://twitter.com/allen155228231
