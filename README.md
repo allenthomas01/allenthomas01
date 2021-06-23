@@ -1,5 +1,5 @@
 - 👋 Hi,  **I’m &nbsp;  A L L E N** &nbsp; &nbsp; **T H O M A S**
-- 👀 I’m interested in  ❤️ web development, cyber security and open source  ❤️
+- 👀 I’m interested and love doing stuff related to   ❤️ web development, cyber security and open source  ❤️
 - 🌱 I’m currently a 🧑‍💻 cse undergraduate
 - 🤗 You can reach me on twitter 👉 https://twitter.com/allen155228231
 
