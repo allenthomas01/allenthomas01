@@ -5,7 +5,7 @@
 
 - I had taken  part in Google Cloud Ready program 2021 (April to June) and have acquired badges , you can view them here  👉 https://www.qwiklabs.com/public_profiles/f276efeb-f2fa-439d-95a7-033bd31530f6
 
-
+<img src="https://github-readme-stats.vercel.app/api?username=coding-sorcerer-1&theme=">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coding-sorcerer-1&theme=">
 
 <!---
