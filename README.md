@@ -1,4 +1,4 @@
-- 👋 Hi, I’m # ALLEN THOMAS
+- 👋 Hi, I’m ALLEN THOMAS
 - 👀 I’m interested in  ❤️ web development, cyber security and open source  ❤️
 - 🌱 I’m currently a 🧑‍💻 cse undergraduate
 - 🤗 You can reach me on twitter 👉 https://twitter.com/allen155228231
