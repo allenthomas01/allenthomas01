@@ -9,9 +9,7 @@
  
 ⚠️ &nbsp; _Do note that the most used languages are not necessarily my strength , it just shows what i use often._ &nbsp; 🤗️  &nbsp; ⚠️
 
-<!---
-coding-sorcerer-1/coding-sorcerer-1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
 
 
