@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=coding-sorcerer-1&style=flat-square)
 - 👋 Hi,  **I’m &nbsp;  A L L E N** &nbsp; &nbsp; **T H O M A S**
 - 👀 I’m interested and love doing stuff related to   ❤️ web development, cyber security and open source  ❤️
 - 🌱 I’m currently a 🧑‍💻 cse undergraduate
