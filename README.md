@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=coding-sorcerer-1&style=flat-square)
 - 👋 Hi,  **I’m &nbsp;  A L L E N** &nbsp; &nbsp; **T H O M A S**
 
-- 👀 Web Dev &nbsp;| &nbsp; Ui/Ux Designer-Developer &nbsp; | &nbsp; FOSS enthusiast
+- 👀 &nbsp; Web Dev &nbsp;| &nbsp; Ui/Ux Designer-Developer &nbsp; | &nbsp; FOSS enthusiast
 
 - 🌱 I’m a CSE student 🧑‍💻  @<a href="https://www.gecidukki.ac.in/" > Government Engineering College, Idukki </a>
 <br>
