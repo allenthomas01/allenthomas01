@@ -3,7 +3,7 @@
 
 - 👀 &nbsp; Web Dev &nbsp;| &nbsp; Ui/Ux Designer-Developer &nbsp; | &nbsp; FOSS enthusiast
 
-- 🌱 I’m a CSE student 🧑‍💻  @<a href="https://www.gecidukki.ac.in/" > Government Engineering College, Idukki </a>
+- 🌱 &nbsp; CSE  ❤️ &nbsp; student 🧑‍💻  @<a href="https://www.gecidukki.ac.in/" > Government Engineering College, Idukki </a>
 <br>
 
 - 🤗 You can reach me on twitter 👉 https://twitter.com/allen155228231
