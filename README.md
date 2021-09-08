@@ -6,7 +6,7 @@
 - 🌱 &nbsp; CSE  ❤️ &nbsp; student 🧑‍💻  @<a href="https://www.gecidukki.ac.in/" > Government Engineering College, Idukki </a>
 <br>
 
-- 🤗 You can reach me on twitter 👉 https://twitter.com/allen155228231
+- 🤗 Feel free to reach out on twitter 👉 https://twitter.com/allen155228231
 
 - Google Cloud Badges 👉 https://www.qwiklabs.com/public_profiles/f276efeb-f2fa-439d-95a7-033bd31530f6
 
