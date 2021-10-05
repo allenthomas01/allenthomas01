@@ -30,7 +30,7 @@
         
 - Participating in Hactoberfest2021
 
-    * _Check out my work_ 👉        
+     
 
 ### FUN FACT 😁
 - Loves anime and currently watching ➡️ https://www.imdb.com/title/tt6342474/
