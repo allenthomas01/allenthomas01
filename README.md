@@ -32,8 +32,8 @@
 
     * _Check out my work_ 👉        
 
-### CONNECT
-- Feel free to reach out on twitter  link in bio 👈
+### FUN FACT 😁
+- Loves anime and currently watching ➡️ https://www.imdb.com/title/tt6342474/
 
 
 
