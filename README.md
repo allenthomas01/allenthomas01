@@ -18,6 +18,7 @@
 - Web
 - Design
 - Foss
+- Cyber Security
 - Artificial Intelligence
 
 ### CURRENTLY I'M ... 
