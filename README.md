@@ -32,7 +32,7 @@
    
 |**Submitted pull requests**|**Hacktoberfest-Accepted**|
 |:---|:---|
-|04|03 |
+|05|03 |
 
      
 
