@@ -35,7 +35,7 @@
    
 |**Submitted pull requests**|**Hacktoberfest-Accepted**|**Waiting Approval**|
 |:---|:---|:---|
-|05|03|02|
+|05|04|01|
 
      
 
