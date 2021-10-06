@@ -30,9 +30,9 @@
         
 - Participating in Hactoberfest2021 👇
    
-|**Submitted pull requests**|**Hacktoberfest-Accepted**|
-|:---|:---|
-|05|03 |
+|**Submitted pull requests**|**Hacktoberfest-Accepted**|**Waiting Approval**|
+|:---|:---|:---|
+|05|03|02|
 
      
 
