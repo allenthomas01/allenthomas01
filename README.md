@@ -28,7 +28,7 @@
 
     * _Check out my work_ 👉  https://www.qwiklabs.com/public_profiles/0a4f87d6-651e-4754-bf53-0ac75d05aced
         
-- Participating in Hactoberfest2021 
+- Participating in Hacktoberfest2021 
     * _Check out my work_ 👉  On the activities section 
 
 
