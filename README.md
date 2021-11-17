@@ -3,7 +3,7 @@
 
 - 👀 &nbsp; Web Dev &nbsp;| &nbsp; Ui/Ux Designer-Developer &nbsp; | &nbsp; FOSS :heart: enthusiast
 
-- 🌱 &nbsp; CSE  ❤️ &nbsp; student 🧑‍💻  @<a  href="https://www.gecidukki.ac.in/" > Government Engineering College, Idukki </a>
+- 🌱 &nbsp; CSE  ❤️ &nbsp; student 🧑‍💻  @<a  href="http://www.rit.ac.in/" > RIT (Govt Engg College,Kottayam) </a>
 <br>
 
 ### SKILLS
