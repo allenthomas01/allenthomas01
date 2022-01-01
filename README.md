@@ -40,7 +40,7 @@
      
 
 ### FUN FACT 😁
-- Loves anime and series, currently watching ➡️ https://www.imdb.com/title/tt6342474/
+- Loves anime and series
 
 
 
