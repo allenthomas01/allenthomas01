@@ -24,18 +24,7 @@
 ### CURRENTLY I'M ... 
 - Learning advanced css
 - Learning reactjs
-- Doing 30-days-of-google-cloud
 
-    * _Check out my work_ 👉  https://www.qwiklabs.com/public_profiles/0a4f87d6-651e-4754-bf53-0ac75d05aced
-        
-- Participating in Hacktoberfest2021 
-    * _Check out my work_ 👉  On the activities section 
-
-
-   
-|**Submitted pull requests**|**Hacktoberfest-Accepted**|**Waiting Approval**|
-|:---|:---|:---|
-|05|05|00|
 
      
 
