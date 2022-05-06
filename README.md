@@ -1,10 +1,14 @@
 ![](https://komarev.com/ghpvc/?username=coding-sorcerer-1&style=flat-square)
+
 # <img src="https://camo.githubusercontent.com/35d3d11359a49bf12aebb834cc13fd81b95eff4e/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" height="5.4%" width="4.4%"> Hi,  **I’m &nbsp;  A L L E N** &nbsp; &nbsp; **T H O M A S**
 
 - 👀 &nbsp; Web Dev &nbsp;| &nbsp; Ui/Ux Designer-Developer &nbsp; | &nbsp; FOSS :heart: enthusiast
 
 - 🌱 &nbsp; CSE  ❤️ &nbsp; student 🧑‍💻  @<a  href="http://www.rit.ac.in/" > RIT (Govt Engg College,Kottayam) </a>
 <br>
+
+<img src=" {https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white}"/>
+
 
 ### SKILLS
 - c++
