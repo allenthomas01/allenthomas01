@@ -9,6 +9,8 @@
 
 <img src=" {https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white}"/>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=allenthomas01)](https://github.com/allenthomas01/github-profile-trophy)
+
 
 ### SKILLS
 - c++
