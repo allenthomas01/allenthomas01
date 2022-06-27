@@ -28,7 +28,7 @@
 - Artificial Intelligence
 
 ### CURRENTLY I'M ... 
-- Learning advanced css
+
 - Learning reactjs
 
 
