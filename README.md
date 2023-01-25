@@ -37,7 +37,7 @@
      
 
 ### FUN AREA 😁
-- Loves anime,movies and series. [Checkout what i watch here](https://trakt.tv/users/w1z4rd1141).
+- Loves Movies,Series,Anime and Comics. Checkout what i watch [here](https://trakt.tv/users/w1z4rd1141).
 
 
 
