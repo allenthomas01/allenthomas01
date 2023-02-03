@@ -12,8 +12,6 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=allenthomas01)](https://github.com/allenthomas01/github-profile-trophy)
 
 
-[![@allenthomas's Holopin board](https://holopin.me/allenthomas)](https://holopin.io/@allenthomas)
-
 ### SKILLS
 - c++
 - c
