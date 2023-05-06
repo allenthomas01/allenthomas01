@@ -194,12 +194,6 @@
 </table>
 
 
-### My Github Statistics
-
- <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=allenthomas01&theme=chartreuse-dark&show_icons=true&include_all_commits=true&count_private=true"/> &nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=allenthomas01&theme=chartreuse-dark"/>
- 
-
-
 
 
 
