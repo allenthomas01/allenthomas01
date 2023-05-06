@@ -1,16 +1,16 @@
 ![](https://komarev.com/ghpvc/?username=allenthomas01&style=flat-square)
 
-# <img src="https://camo.githubusercontent.com/35d3d11359a49bf12aebb834cc13fd81b95eff4e/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" height="5.4%" width="4.4%"> Hi,  **I’m &nbsp;  A L L E N** &nbsp; &nbsp; **T H O M A S**
+# <img src="https://camo.githubusercontent.com/35d3d11359a49bf12aebb834cc13fd81b95eff4e/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" height="5.4%" width="4.4%"> Hi,  **I’m &nbsp;  ALLEN** &nbsp; **THOMAS**
 
 ### Backend Developer &nbsp;| &nbsp; Software Developer &nbsp; | &nbsp; Java Developer | &nbsp; FOSS enthusiast
 
 - 🔭 I’m currently working on: __My projects__ 
 - 🌱 I’m currently learning: __MongoDB,Nodejs,PostgreSQL__
-- 💬 Ask me about __Software dev,Web,CL,Linux,FOSS,Movies.....__
+- 💬 Ask me about: __Software dev,Web,CL,Linux,FOSS,Movies.....__
 - ⚡ Fun fact: Loves anime,movies and series.Checkout what i watch [here](https://trakt.tv/users/w1z4rd1141).
 
 <br/>
-
+-
 
 <table>
     <tr>
