@@ -15,14 +15,14 @@
 <table>
     <tr>
         <th>My Website</th>
-        <th>My CV</th>
+        <th>My Resume</th>
     </tr>
     <tr>    
         <td>
-            <a href="https://allenthomas01.github.io/">🌐</a>
+            <a href=""><img src="https://img.shields.io/badge/website-%2311AB00?style=for-the-badge&logo=About.me&logoColor=white" /></a>
         </td>
         <td>
-            <a href="https://allenthomas01.github.io/online-resume">📃</a>
+            <a href=""><img src="https://img.shields.io/badge/resume-%2311AB00?style=for-the-badge&logo=cv&logoColor=white" /></a>
         </td>
     </tr>
 </table>
@@ -31,7 +31,7 @@
 
 ### Connect with me:
 
-<a href="https://www.linkedin.com/in/allenthomas01/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"  /></a>
+<a href="https://www.linkedin.com/in/allenthomas01/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  /></a>
 
 ### My Skillset
 
