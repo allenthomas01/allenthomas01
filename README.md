@@ -10,8 +10,6 @@
 - ⚡ Fun fact: Loves anime,movies and series.Checkout what i watch [here](https://trakt.tv/users/w1z4rd1141).
 
 <br/>
--
-
 <table>
     <tr>
         <th>My Website</th>
