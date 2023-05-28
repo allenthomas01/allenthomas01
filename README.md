@@ -1,7 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=allenthomas01&style=flat-square)
 
-# <div align="center"><img src="https://camo.githubusercontent.com/35d3d11359a49bf12aebb834cc13fd81b95eff4e/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" height="5.4%" width="4.4%">Hi,  **I’m &nbsp;  ALLEN** &nbsp; **THOMAS** </div><br/>
-<div align="center"><img src="https://github.com/allenthomas01/allenthomas01/assets/82997175/39c9d457-5c0b-4da7-b6df-2127fe6fc59e" height="35%" width="35%" ></div>
+# <div align="center"><img src="https://camo.githubusercontent.com/35d3d11359a49bf12aebb834cc13fd81b95eff4e/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" height="5.4%" width="4.4%">Hi,  **I’m &nbsp;  ALLEN** &nbsp; **THOMAS** <img src="https://github.com/allenthomas01/allenthomas01/assets/82997175/39c9d457-5c0b-4da7-b6df-2127fe6fc59e" style="border-radius:50%; width:150px;height:150px;" ></div>
 
 
 ### Backend Developer &nbsp;| &nbsp; Software Developer &nbsp; | &nbsp; Java Developer | &nbsp; FOSS enthusiast | &nbsp; CSE Student @ <a href="http://www.rit.ac.in/">RIT,Kottayam</a>
