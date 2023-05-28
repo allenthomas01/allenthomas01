@@ -4,7 +4,7 @@
 <div align="center"><img src="https://github.com/allenthomas01/allenthomas01/assets/82997175/39c9d457-5c0b-4da7-b6df-2127fe6fc59e" height="35%" width="35%" ></div>
 
 
-### Backend Developer &nbsp;| &nbsp; Software Developer &nbsp; | &nbsp; Java Developer | &nbsp; FOSS enthusiast
+### Backend Developer &nbsp;| &nbsp; Software Developer &nbsp; | &nbsp; Java Developer | &nbsp; FOSS enthusiast | &nbsp; CSE Student @ <a href="http://www.rit.ac.in/">RIT,Kottayam</a>
 
 - 🔭 I’m currently working on: __My projects__ 
 - 🌱 I’m currently learning: __MongoDB,Nodejs,PostgreSQL__
