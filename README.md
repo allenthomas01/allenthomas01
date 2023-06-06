@@ -121,7 +121,7 @@
             <img src="https://github-readme-stats.vercel.app/api?username=allenthomas01&count_private=true&show_icons=true&theme=tokyonight"/>
         </td>
         <td>
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=allenthomas01&langs_count=10&layout=compact&hide=jupyter%20notebook,html,css"/>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=allenthomas01&langs_count=10&layout=compact&hide=jupyter%20notebook,dart,html,css"/>
         </td>
     </tr>
 </table>
