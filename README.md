@@ -1,7 +1,8 @@
 ![](https://komarev.com/ghpvc/?username=allenthomas01&style=flat-square)
 
 
-![linkedin banner animated](https://github.com/allenthomas01/allenthomas01/assets/82997175/a28448a1-2ec3-432a-81a8-d2e6c2d91f1a)
+![animated profile](https://github.com/allenthomas01/allenthomas01/assets/82997175/dd0d1495-b353-4541-9f7f-0cbc2702af5d)
+
 
 ### Backend Developer &nbsp;| &nbsp; Software Developer &nbsp; | &nbsp; Java Developer | &nbsp; FOSS enthusiast | &nbsp; CSE Student @ <a href="http://www.rit.ac.in/">RIT,Kottayam</a>
 
