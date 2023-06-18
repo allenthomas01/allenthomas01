@@ -12,11 +12,13 @@
 - ⚡ Fun fact: Loves anime,movies and series.Checkout what i watch [here](https://trakt.tv/users/w1z4rd1141).
 
 <br/>
+<!-- commenting out this part ..........................................
 <table>
-    <tr>
+  <tr>
         <th>My Website</th>
         <th>My Resume</th>
     </tr>
+
     <tr>    
         <td>
             <a href=""><img src="https://img.shields.io/badge/website-%2311AB00?style=for-the-badge&logo=About.me&logoColor=white" /></a>
@@ -26,7 +28,7 @@
         </td>
     </tr>
 </table>
-
+-->
 
 
 ### Connect with me:
