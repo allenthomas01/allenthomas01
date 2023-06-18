@@ -111,7 +111,7 @@
 <table>
     <tr>
         <td>
-            <img src="https://github-profile-trophy.vercel.app/?username=allenthomas01&row=3&column=4&no-bg=true"/>
+            <img src="https://github-profile-trophy.vercel.app/?username=allenthomas01&theme=tokyonight&row=3&column=4&no-bg=true"/>
         </td>
         <td>
             <img src="https://github-readme-streak-stats.herokuapp.com/?user=allenthomas01&theme=tokyonight"/>
@@ -122,7 +122,7 @@
             <img src="https://github-readme-stats.vercel.app/api?username=allenthomas01&count_private=true&show_icons=true&theme=tokyonight"/>
         </td>
         <td>
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=allenthomas01&langs_count=10&layout=compact&hide=jupyter%20notebook,dart,html,css"/>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=allenthomas01&theme=tokyonight&langs_count=10&layout=compact&hide=jupyter%20notebook,dart,html,css"/>
         </td>
     </tr>
 </table>
