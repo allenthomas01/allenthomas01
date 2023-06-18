@@ -114,7 +114,7 @@
             <img src="https://github-profile-trophy.vercel.app/?username=allenthomas01&row=3&column=4&no-bg=true"/>
         </td>
         <td>
-            <img src="https://github-readme-streak-stats.herokuapp.com/?user=allenthomas01"/>
+            <img src="https://github-readme-streak-stats.herokuapp.com/?user=allenthomas01&theme=tokyonight"/>
         </td> 
     </tr>
     <tr>
