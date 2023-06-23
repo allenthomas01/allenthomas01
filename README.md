@@ -4,7 +4,7 @@
 ![animated profile](https://github.com/allenthomas01/allenthomas01/assets/82997175/dd0d1495-b353-4541-9f7f-0cbc2702af5d)
 
 
-### Backend Developer &nbsp;| &nbsp; Software Developer &nbsp; | &nbsp; Java Developer | &nbsp; Open Source enthusiast | &nbsp; CSE Student @ <a href="http://www.rit.ac.in/">RIT,Kottayam</a>
+### Software Developer &nbsp; | &nbsp; Java Developer | &nbsp; Open Source enthusiast | &nbsp; CSE Student @ <a href="http://www.rit.ac.in/">RIT,Kottayam</a>
 
 - 🔭 I’m currently working on: __My projects__ 
 - 🌱 I’m currently learning: __MongoDB,Nodejs,PostgreSQL__
