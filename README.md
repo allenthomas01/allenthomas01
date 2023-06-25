@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=allenthomas01&style=flat-square)
+![](https://komarev.com/ghpvc/?username=allenthomas01&style=flat-square&label=Profile+Impressions)
 
 
 ![animated profile](https://github.com/allenthomas01/allenthomas01/assets/82997175/dd0d1495-b353-4541-9f7f-0cbc2702af5d)
