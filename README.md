@@ -1,15 +1,24 @@
-![](https://komarev.com/ghpvc/?username=allenthomas01&style=flat-square&label=Visitors)
+
+>PROFILE VIEWS
+<img src="https://count.getloli.com/get/@:allenthomas01" alt=":name" width="20%" height="20%" />
+
+<img src="https://komarev.com/ghpvc/?username=allenthomas01&style=flat-square&label=Visitors" width="0.1%" height="0.1%"/>
+
 
 
 ![animated profile](https://github.com/allenthomas01/allenthomas01/assets/82997175/dd0d1495-b353-4541-9f7f-0cbc2702af5d)
 
 
-### Software Developer &nbsp; | &nbsp; Java Developer | &nbsp; Open Source enthusiast | &nbsp; CSE Student @ <a href="http://www.rit.ac.in/">RIT,Kottayam</a>
+### 🖤 Open Source Advocate &nbsp; | &nbsp; Software Developer | &nbsp; CSE Student
 
+- 🌟 About Me: &nbsp;
+ 
+  >__As a highly motivated and ambitious software developer, I love designing solutions where I can apply my problem solving skills and passion for the field. I have a strong foundation in programming concepts and has experience in building web applications. I advocate for the use and advancement of open source solutions and spend a lot of time in the community learning and discovering new things. Currently in my third year pursuing B.Tech in Computer Science and Engineering (CSE) from <a href="http://www.rit.ac.in/">RIT,Kottayam</a>, affiliated with <a href="https://www.ktu.edu.in/">KTU University</a>.__
 - 🔭 I’m currently working on: __My projects__ 
 - 🌱 I’m currently learning: __MongoDB,Nodejs,PostgreSQL__
 - 💬 Ask me about: __Software dev,Web,CL,Linux,FOSS,Movies.....__
-- ⚡ Fun fact: Loves anime,movies and series.Checkout what i watch [here](https://trakt.tv/users/w1z4rd1141).
+- 🌩️ Fun fact: __I love tweaking software and customising it. So I play around them a lot.__
+- ⚡ Super Fun fact: __Linux is my favourite playground.__
 
 <br/>
 <!-- commenting out this part ..........................................
@@ -28,7 +37,7 @@
         </td>
     </tr>
 </table>
--->
+---  commenting till here -------->
 
 
 ### Connect with me:
