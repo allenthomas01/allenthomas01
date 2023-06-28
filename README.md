@@ -139,8 +139,13 @@
 </table>
 
 <div align="center">
- <h3 align="center">Random Dev Joke</h1>
- <img src="https://readme-jokes.vercel.app/api" />
+ <h3 align="center">Random Developer Joke xD</h1>
+ <div align="center">
+ <a href="https://github.com/ABSphreak/readme-jokes"><img src="https://readme-jokes.vercel.app/api"/></a>
+  <p align="center">(<i>Create your own by clicking on the joke.</i>)</p>
+ 
+ 
+ </div>
 </div>
 
 
