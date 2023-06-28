@@ -138,7 +138,10 @@
     </tr>
 </table>
 
-
+<div align="center">
+ <h3 align="center">Random Dev Joke</h1>
+ <img src="https://readme-jokes.vercel.app/api" />
+</div>
 
 
 
