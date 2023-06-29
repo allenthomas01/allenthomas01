@@ -1,6 +1,6 @@
 
 >PROFILE VIEWS
-<img src="https://count.getloli.com/get/@:allenthomas01" alt=":name" width="20%" height="20%" />
+<img src="https://count.getloli.com/get/@:allenthomas01" alt=":name" width="25%" height="25%" />
 
 <img src="https://komarev.com/ghpvc/?username=allenthomas01&style=flat-square&label=Visitors" width="0.1%" height="0.1%"/>
 
