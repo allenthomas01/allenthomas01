@@ -1,5 +1,5 @@
 
->PROFILE VIEWS
+> 👀 PROFILE VIEWS
 <img src="https://count.getloli.com/get/@:allenthomas01" alt=":name" width="25%" height="25%" />
 
 <img src="https://komarev.com/ghpvc/?username=allenthomas01&style=flat-square&label=Visitors" width="0.1%" height="0.1%"/>
@@ -8,6 +8,7 @@
 
 ![animated profile](https://github.com/allenthomas01/allenthomas01/assets/82997175/dd0d1495-b353-4541-9f7f-0cbc2702af5d)
 
+<hr style="border:2px solid gray">
 
 ### 🖤 Open Source Advocate &nbsp; | &nbsp; Software Developer | &nbsp; CSE Student
 
@@ -18,7 +19,7 @@
 - 🌱 I’m currently learning: __MongoDB,Nodejs,PostgreSQL__
 - 💬 Ask me about: __Software dev,Web,CL,Linux,FOSS,Movies.....__
 - 🌩️ Fun fact: __I love tweaking software and customising it. So I play around them a lot.__
-- ⚡ Super Fun fact: __Linux is my favourite playground.__
+- ⚡ Super Fun fact: __Linux is my favourite playground! and NO, I don't use Arch btw 🙃__
 
 <br/>
 <!-- commenting out this part ..........................................
@@ -38,13 +39,14 @@
     </tr>
 </table>
 ---  commenting till here -------->
+<hr style="border:2px solid gray">
 
-
-### Connect with me:
+### 📧 Connect with me:
 
 <a href="https://www.linkedin.com/in/allenthomas01/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  /></a>
+<hr style="border:2px solid gray">
 
-### My Skillset
+### 💻 My Skillset
 
 <table>
     <tr>
@@ -116,8 +118,9 @@
 
 
 <br/>
+<hr style="border:2px solid gray">
 
-### My GitHub Stats
+### 📊 My GitHub Stats
 <!--
 <table>
     <tr>
@@ -148,10 +151,9 @@
 <hr style="border:2px solid gray">
 
 <div align="center">
- <h3 align="center">Random Developer Joke xD</h1>
+ <h3 align="center">🤖 Random Developer Joke xD</h1>
  <div align="center">
- <a href="https://github.com/ABSphreak/readme-jokes"><img src="https://readme-jokes.vercel.app/api"/></a>
-  <p align="center">(<i>Create your own by clicking on the joke.</i>)</p>
+ <img src="https://readme-jokes.vercel.app/api"/>
  
  
  </div>
