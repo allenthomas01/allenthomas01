@@ -142,9 +142,12 @@
 </table>
 -->
 
-<div><img src="https://github-profile-trophy.vercel.app/?username=allenthomas01&theme=tokyonight&row=3&column=4&no-bg=true"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=allenthomas01&theme=tokyonight&langs_count=10&layout=compact&hide=jupyter%20notebook,dart,html,css"/></div>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=allenthomas01&theme=radical"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=allenthomas01&theme=tokyonight&show_icons=true" />
 
-<div><img src="https://github-readme-streak-stats.herokuapp.com/?user=allenthomas01&theme=radical"/><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=allenthomas01&theme=tokyonight&show_icons=true" /> </div>
+
+<img src="https://github-profile-trophy.vercel.app/?username=allenthomas01&theme=tokyonight&row=3&column=4&no-bg=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=allenthomas01&theme=tokyonight&langs_count=10&layout=compact&hide=jupyter%20notebook,dart,html,css"/>
 
 <!-- COMMENTING OUT ANURAGHAZRA'S README STATS
 <img src="https://github-readme-stats.vercel.app/api?username=allenthomas01&show_icons=true&theme=tokyonight&rank_icon=percentile&count_private=true&role=owner,collaborator&show=reviews,discussions_answered"/>
