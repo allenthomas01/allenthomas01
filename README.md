@@ -154,7 +154,7 @@
 
 ### 🚀 Favourite Repositories
 <a href="https://github.com/allenthomas01/YoutubeDownloader">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=allenthomas01&repo=YoutubeDownloader&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=allenthomas01&repo=YoutubeDownloader&theme=apprentice" />
 </a>
 
 
