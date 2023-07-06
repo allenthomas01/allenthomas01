@@ -14,10 +14,12 @@
 
 - 🌟 About Me: &nbsp;
  
-  >__As a highly motivated and ambitious software developer, I love designing solutions where I can apply my problem solving skills and passion for the field. I have a strong foundation in programming concepts and has experience in building web applications. I advocate for the use and advancement of open source solutions and spend a lot of time in the community learning and discovering new things. Currently in my third year pursuing B.Tech in Computer Science and Engineering (CSE) from <a href="http://www.rit.ac.in/">RIT,Kottayam</a>, affiliated with <a href="https://www.ktu.edu.in/">KTU University</a>.__
+  > - __As a highly motivated and ambitious Software Engineer, I love designing solutions where I can apply my problem solving skills and passion for the field.__
+  > - __I advocate for the use and advancement of Open Source solutions and spend a lot of time in the community learning and discovering new things.__
+  > - __Currently in my third year pursuing B.Tech in Computer Science and Engineering (CSE) from <a href="http://www.rit.ac.in/">RIT, Govt Engg College, Kottayam</a>, affiliated with <a href="https://www.ktu.edu.in/">KTU University</a>.__
 - 🔭 I’m currently working on: __My projects__ 
 - 🌱 I’m currently learning: __MongoDB,Nodejs,PostgreSQL__
-- 💬 Ask me about: __Software dev,Web,CL,Linux,FOSS,Movies.....__
+- 💬 Ask me about: __Software development,Web,CL,Linux,FOSS,Movies.....__
 - 🌩️ Fun fact: __I love tweaking software and customising it. So I play around them a lot.__
 - ⚡ Super Fun fact: __Linux is my favourite playground! and NO, I don't use Arch btw 🙃__
 
@@ -41,7 +43,7 @@
 ---  commenting till here -------->
 <hr style="border:2px solid gray">
 
-### 📧 Connect with me:
+### 📧 Stay in touch:
 
 <a href="https://www.linkedin.com/in/allenthomas01/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  /></a>
 <hr style="border:2px solid gray">
@@ -98,17 +100,6 @@
         </td>
     </tr>
     <tr>
-        <td>IDEs</td>
-        <td>
-            <a href=""><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"  /></a>
-            <a href=""><img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"  /></a>
-            <a href=""><img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"  /></a>
-            <a href=""><img src="https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white"  /></a>
-            <a href=""><img src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white" /></a>
-             <a href=""><img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white" /></a>
-        </td>
-    </tr>
-    <tr>
         <td>Others</td>
         <td>
             <a href=""><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"  /></a>
@@ -142,13 +133,15 @@
 </table>
 -->
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=allenthomas01&theme=radical"/>
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=allenthomas01&theme=tokyonight&show_icons=true" />
+<p align="center">&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=allenthomas01&theme=radical" width=45%/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=allenthomas01&theme=tokyonight&show_icons=true" width=45%/>
+</p>
 
-
-<img src="https://github-profile-trophy.vercel.app/?username=allenthomas01&theme=tokyonight&row=3&column=4&no-bg=true"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=allenthomas01&theme=tokyonight&langs_count=10&layout=compact&hide=jupyter%20notebook,dart,html,css"/>
-
+<p align="center">&nbsp;
+<img src="https://github-profile-trophy.vercel.app/?username=allenthomas01&theme=tokyonight&row=3&column=4&no-bg=true" width=45%/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=allenthomas01&theme=tokyonight&langs_count=10&layout=compact&hide=jupyter%20notebook,dart,html,css" width=33%/>
+</p>
 <!-- COMMENTING OUT ANURAGHAZRA'S README STATS
 <img src="https://github-readme-stats.vercel.app/api?username=allenthomas01&show_icons=true&theme=tokyonight&rank_icon=percentile&count_private=true&role=owner,collaborator&show=reviews,discussions_answered"/>
 &count_private=true&include_all_commits=true (add this to include all commits in the stats)
@@ -161,15 +154,17 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=allenthomas01&repo=YoutubeDownloader&theme=apprentice" />
 </a>
 
+<hr style="border:2px solid gray">
+
+<div align="center">
+<h3 align="center"> 👨‍💻💡 Bytes of Wisdom </h1>
+<img src="https://quotes-github-readme.vercel.app/api?theme=dark" />
+</div>
 
 <hr style="border:2px solid gray">
-<div align="center">
- <h3 align="center">🤖 Random Developer Joke xD</h1>
  <div align="center">
+  <h3 align="center">🤖 Humor Overflow xD</h1>
  <img src="https://readme-jokes.vercel.app/api"/>
- 
- 
  </div>
-</div>
 
 
