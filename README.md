@@ -134,24 +134,30 @@
 -->
 
 <p align="center">&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=allenthomas01&theme=radical" width=45%/>
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=allenthomas01&theme=tokyonight&show_icons=true" width=45%/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=allenthomas01&theme=radical" width=49%/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=allenthomas01&theme=tokyonight&show_icons=true" width=49%/>
 </p>
 
 <p align="center">&nbsp;
-<img src="https://github-profile-trophy.vercel.app/?username=allenthomas01&theme=tokyonight&row=3&column=4&no-bg=true" width=45%/>
+<img src="https://github-profile-trophy.vercel.app/?username=allenthomas01&theme=tokyonight&row=3&column=4&no-bg=true" height=45%/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=allenthomas01&theme=tokyonight&langs_count=10&layout=compact&hide=jupyter%20notebook,dart,html,css" width=33%/>
 </p>
-<!-- COMMENTING OUT ANURAGHAZRA'S README STATS
-<img src="https://github-readme-stats.vercel.app/api?username=allenthomas01&show_icons=true&theme=tokyonight&rank_icon=percentile&count_private=true&role=owner,collaborator&show=reviews,discussions_answered"/>
+<!-- COMMENTING OUT ANURAGHAZRA'S README STATS 
+<img src="https://github-readme-stats.vercel.app/api?username=allenthomas01&show_icons=true&theme=tokyonight&rank_icon=github&count_private=true"/>
+-->
+<!--  useful attributes
 &count_private=true&include_all_commits=true (add this to include all commits in the stats)
+&role=owner,collaborator&show=reviews,discussions_answered (show discussions etc)
 -->
 
-
+<!--   display code time. generate it by signing up on wakatime
+### Wakatime stats
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME" />
+-->
 
 ### 🚀 Favourite Repositories
 <a href="https://github.com/allenthomas01/YoutubeDownloader">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=allenthomas01&repo=YoutubeDownloader&theme=apprentice" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=allenthomas01&repo=YoutubeDownloader&theme=apprentice&show_owner=true" />
 </a>
 
 <hr style="border:2px solid gray">
