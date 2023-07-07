@@ -153,12 +153,25 @@
 <!--   display code time. generate it by signing up on wakatime
 ### Wakatime stats
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME" />
+
 -->
+### 🐍-game from my github contributions graph ;)
+
+
+<details>
+  <summary>Click me to show/hide</summary>
+ 
+   ###### My contribution graph gets eaten by the snake.
+<img src="https://github.com/allenthomas01/allenthomas01/blob/output/github-contribution-grid-snake.svg"/>
+
+</details>
 
 ### 🚀 Favourite Repositories
 <a href="https://github.com/allenthomas01/YoutubeDownloader">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=allenthomas01&repo=YoutubeDownloader&theme=apprentice&show_owner=true" />
 </a>
+
+
 
 <hr style="border:2px solid gray">
 
@@ -172,5 +185,7 @@
   <h3 align="center">🤖 Humor Overflow xD</h1>
  <img src="https://readme-jokes.vercel.app/api"/>
  </div>
+
+ 
 
 
