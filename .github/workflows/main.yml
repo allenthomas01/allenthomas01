@@ -19,23 +19,18 @@ jobs:
         with:
           ref: ${{ github.head_ref }}
 
-      - name: Create temporary directory
-        run: |
-          mkdir temp
-          cp -r .github/workflows temp/
-
       - name: Generate github-contribution-grid-snake.svg
         uses: Platane/snk@v2
         with:
           github_user_name: ${{ github.repository_owner }}
           output: |
-            temp/dist/github-contribution-grid-snake.svg
-            temp/dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            ./github-contribution-grid-snake.svg
+            ./github-contribution-grid-snake-dark.svg?palette=github-dark
 
       - name: Push modified files to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
-          build_dir: temp/dist
+          build_dir: ./
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
