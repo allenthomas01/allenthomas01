@@ -140,7 +140,7 @@
 
 <p align="center">&nbsp;
 <img src="https://github-profile-trophy.vercel.app/?username=allenthomas01&theme=tokyonight&row=3&column=4&no-bg=true" height=45%/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=allenthomas01&theme=tokyonight&langs_count=10&layout=compact&hide=jupyter%20notebook,dart,html,css" width=33%/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=allenthomas01&theme=tokyonight&langs_count=10&layout=compact&hide=jupyter%20notebook,dart,html,css" height=45%/>
 </p>
 <!-- COMMENTING OUT ANURAGHAZRA'S README STATS 
 <img src="https://github-readme-stats.vercel.app/api?username=allenthomas01&show_icons=true&theme=tokyonight&rank_icon=github&count_private=true"/>
