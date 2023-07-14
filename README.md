@@ -167,7 +167,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/allenthomas01/allenthomas01/blob/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/allenthomas01/allenthomas01/blob/output/github-contribution-grid-snake.svg" />
-  <img src="https://github.com/allenthomas01/allenthomas01/blob/output/github-contribution-grid-snake.svg"/>
+  <img src="https://github.com/allenthomas01/allenthomas01/blob/output/github-contribution-grid-snake.gif"/>
 </picture>
 
 </details>
