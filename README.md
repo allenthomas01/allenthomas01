@@ -155,14 +155,7 @@
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME" />
 
 -->
-### 🐍-game from my github contributions graph ;)
-
-
-<details>
-  <summary>Click me to show/hide</summary>
- 
-   ###### My contribution graph gets eaten by the snake.
-
+### 🐍 snake game from my github contributions graph ;)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/allenthomas01/allenthomas01/blob/output/github-contribution-grid-snake-dark.svg" />
@@ -170,7 +163,6 @@
   <img src="https://github.com/allenthomas01/allenthomas01/blob/output/github-contribution-grid-snake.gif"/>
 </picture>
 
-</details>
 
 ### 🚀 Favourite Repositories
 <a href="https://github.com/allenthomas01/YoutubeDownloader">
