@@ -19,7 +19,7 @@
   > - __Currently in my third year pursuing B.Tech in Computer Science and Engineering (CSE) from <a href="http://www.rit.ac.in/">RIT, Govt Engg College, Kottayam</a>, affiliated with <a href="https://www.ktu.edu.in/">KTU University</a>.__
 - 🔭 I’m currently working on: __My projects__ 
 - 🌱 I’m currently learning: __MongoDB,Nodejs,PostgreSQL__
-- 💬 Ask me about: __Software development,Web,CL,Linux,FOSS,Movies.....__
+- 💬 Ask me about: __Software development,Web,CL,Linux,FOSS,Stories.....__
 - 🌩️ Fun fact: __I love tweaking software and customising it. So I play around them a lot.__
 - ⚡ Super Fun fact: __Linux is my favourite playground! and NO, I don't use Arch btw 🙃__
 
@@ -48,7 +48,7 @@
 <a href="https://www.linkedin.com/in/allenthomas01/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  /></a>
 <hr style="border:2px solid gray">
 
-### 💻 My Skillset
+### 💻 Tools and Tech I've Played Around With
 
 <table>
     <tr>
@@ -103,6 +103,7 @@
         <td>Others</td>
         <td>
             <a href=""><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"  /></a>
+            <a href=""><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /></a>
         </td>
     </tr>
 </table>
