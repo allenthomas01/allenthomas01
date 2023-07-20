@@ -24,23 +24,22 @@
 - ⚡ Super Fun fact: __Linux is my favourite playground! and NO, I don't use Arch btw 🙃__
 
 <br/>
-<!-- commenting out this part ..........................................
+
 <table>
   <tr>
         <th>My Website</th>
         <th>My Resume</th>
-    </tr>
-
+  </tr>
     <tr>    
         <td>
-            <a href=""><img src="https://img.shields.io/badge/website-%2311AB00?style=for-the-badge&logo=About.me&logoColor=white" /></a>
+            <a href="allenthomas.me"><img src="https://img.shields.io/badge/website-blue?style=for-the-badge&logo=About.me&logoColor=white" /></a>
         </td>
         <td>
-            <a href=""><img src="https://img.shields.io/badge/resume-%2311AB00?style=for-the-badge&logo=cv&logoColor=white" /></a>
+            <a href="allenthomas.me"><img src="https://img.shields.io/badge/resume-blue?style=for-the-badge&logo=cv&logoColor=white" /></a>
         </td>
     </tr>
 </table>
----  commenting till here -------->
+
 <hr style="border:2px solid gray">
 
 ### 📧 Stay in touch:
