@@ -32,10 +32,10 @@
   </tr>
     <tr>    
         <td>
-            <a href="allenthomas.me"><img src="https://img.shields.io/badge/website-blue?style=for-the-badge&logo=About.me&logoColor=white" /></a>
+            <a href="https://allenthomas.me/"><img src="https://img.shields.io/badge/website-blue?style=for-the-badge&logo=About.me&logoColor=white" /></a>
         </td>
         <td>
-            <a href="allenthomas.me"><img src="https://img.shields.io/badge/resume-blue?style=for-the-badge&logo=cv&logoColor=white" /></a>
+            <a href="https://allenthomas.me/"><img src="https://img.shields.io/badge/resume-blue?style=for-the-badge&logo=cv&logoColor=white" /></a>
         </td>
     </tr>
 </table>
