@@ -23,12 +23,15 @@
 - 🌩️ Fun fact: __I love tweaking software and customising it. So I play around them a lot.__
 - ⚡ Super Fun fact: __Linux is my favourite playground! and NO, I don't use Arch btw 🙃__
 
-<br/>
 
+ <hr style="border:2px solid gray">
+
+### 📧 Stay in touch:
 <table>
   <tr>
         <th>My Website</th>
         <th>My Resume</th>
+        <th>LinkedIn</th>
   </tr>
     <tr>    
         <td>
@@ -37,15 +40,60 @@
         <td>
             <a href="https://allenthomas.me/"><img src="https://img.shields.io/badge/resume-blue?style=for-the-badge&logo=cv&logoColor=white" /></a>
         </td>
+        <td>
+        <a href="https://www.linkedin.com/in/allenthomas01/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  /></a>
+        </td>
     </tr>
 </table>
 
 <hr style="border:2px solid gray">
 
-### 📧 Stay in touch:
 
-<a href="https://www.linkedin.com/in/allenthomas01/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  /></a>
-<hr style="border:2px solid gray">
+
+###  <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='24'> My GitHub Stats
+<!--
+<table>
+    <tr>
+        <td>
+            <img src="https://github-profile-trophy.vercel.app/?username=allenthomas01&theme=tokyonight&row=3&column=4&no-bg=true"  width="155%" height="155%"/>
+        </td>
+        <td>
+            <img src="https://github-readme-streak-stats.herokuapp.com/?user=allenthomas01&theme=radical" width="155%" height="155%"/>
+        </td> 
+    </tr>
+    <tr>
+        <td>
+            <img src="https://github-readme-stats.vercel.app/api?username=allenthomas01&show_icons=true&theme=tokyonight&rank_icon=percentile&count_private=true&role=owner,collaborator&show=reviews,discussions_answered" width="155%" height="155%"/>
+        </td>
+        <td>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=allenthomas01&theme=tokyonight&langs_count=10&layout=compact&hide=jupyter%20notebook,dart,html,css" width="155%" height="155%"/>
+        </td>
+    </tr>
+</table>
+-->
+
+<p align="center">&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=allenthomas01&theme=radical" width=49%/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=allenthomas01&theme=tokyonight&show_icons=true" width=49%/>
+</p>
+
+<p align="center">&nbsp;
+<img src="https://github-profile-trophy.vercel.app/?username=allenthomas01&theme=tokyonight&row=3&column=4&no-bg=true" height=45%/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=allenthomas01&theme=tokyonight&langs_count=10&layout=compact&hide=jupyter%20notebook,dart,html,css" height=45%/>
+</p>
+<!-- COMMENTING OUT ANURAGHAZRA'S README STATS 
+<img src="https://github-readme-stats.vercel.app/api?username=allenthomas01&show_icons=true&theme=tokyonight&rank_icon=github&count_private=true"/>
+-->
+<!--  useful attributes
+&count_private=true&include_all_commits=true (add this to include all commits in the stats)
+&role=owner,collaborator&show=reviews,discussions_answered (show discussions etc)
+-->
+
+<!--   display code time. generate it by signing up on wakatime
+### Wakatime stats
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME" />
+
+-->
 
 ### 💻 Tools and Tech I've Played Around With
 
@@ -105,50 +153,7 @@
 <br/>
 <hr style="border:2px solid gray">
 
-###  <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='24'> My GitHub Stats
-<!--
-<table>
-    <tr>
-        <td>
-            <img src="https://github-profile-trophy.vercel.app/?username=allenthomas01&theme=tokyonight&row=3&column=4&no-bg=true"  width="155%" height="155%"/>
-        </td>
-        <td>
-            <img src="https://github-readme-streak-stats.herokuapp.com/?user=allenthomas01&theme=radical" width="155%" height="155%"/>
-        </td> 
-    </tr>
-    <tr>
-        <td>
-            <img src="https://github-readme-stats.vercel.app/api?username=allenthomas01&show_icons=true&theme=tokyonight&rank_icon=percentile&count_private=true&role=owner,collaborator&show=reviews,discussions_answered" width="155%" height="155%"/>
-        </td>
-        <td>
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=allenthomas01&theme=tokyonight&langs_count=10&layout=compact&hide=jupyter%20notebook,dart,html,css" width="155%" height="155%"/>
-        </td>
-    </tr>
-</table>
--->
 
-<p align="center">&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=allenthomas01&theme=radical" width=49%/>
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=allenthomas01&theme=tokyonight&show_icons=true" width=49%/>
-</p>
-
-<p align="center">&nbsp;
-<img src="https://github-profile-trophy.vercel.app/?username=allenthomas01&theme=tokyonight&row=3&column=4&no-bg=true" height=45%/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=allenthomas01&theme=tokyonight&langs_count=10&layout=compact&hide=jupyter%20notebook,dart,html,css" height=45%/>
-</p>
-<!-- COMMENTING OUT ANURAGHAZRA'S README STATS 
-<img src="https://github-readme-stats.vercel.app/api?username=allenthomas01&show_icons=true&theme=tokyonight&rank_icon=github&count_private=true"/>
--->
-<!--  useful attributes
-&count_private=true&include_all_commits=true (add this to include all commits in the stats)
-&role=owner,collaborator&show=reviews,discussions_answered (show discussions etc)
--->
-
-<!--   display code time. generate it by signing up on wakatime
-### Wakatime stats
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME" />
-
--->
 ### 🐍 snake game from my github contributions graph ;)
 
 <picture>
