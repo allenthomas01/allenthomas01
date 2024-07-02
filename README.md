@@ -10,13 +10,12 @@
 
 <hr style="border:2px solid gray">
 
-### 🖤 Open Source Advocate &nbsp; | &nbsp; Software Developer | &nbsp; CSE Student
-
+### 🖤 Open Source Advocate &nbsp; | &nbsp; Software Developer | &nbsp; CSE Graduate
 - 🌟 About Me: &nbsp;
  
   > - __As a highly motivated and ambitious Software Engineer, I love designing solutions where I can apply my problem solving skills and passion for the field.__
   > - __I advocate for the use and advancement of Open Source solutions and spend a lot of time in the community learning and discovering new things.__
-  > - __Currently in my third year pursuing B.Tech in Computer Science and Engineering (CSE) from <a href="http://www.rit.ac.in/">RIT, Govt Engg College, Kottayam</a>, affiliated with <a href="https://www.ktu.edu.in/">KTU University</a>.__
+  > - __Graduated with B.Tech in Computer Science and Engineering (CSE) from <a href="http://www.rit.ac.in/">RIT, Govt Engg College, Kottayam</a>, affiliated with <a href="https://www.ktu.edu.in/">KTU University</a>.__
 - 🔭 I’m currently working on: __My projects__ 
 - 🌱 I’m currently learning: __MongoDB,Nodejs,PostgreSQL__
 - 💬 Ask me about: __Software development,Web,CL,Linux,FOSS,Stories.....__
