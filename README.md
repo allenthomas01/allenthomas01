@@ -1,16 +1,65 @@
+<h1 align="center">Hi 👋, I'm Allen</h1>
+<h3 align="center">A Software Engineer</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=allenthomas01&label=Profile%20views&color=1473ad&style=flat" alt="allenthomas01" /> </p>
+<!--  old profile view comment start 
 > 👀 PROFILE VIEWS
 <img src="https://count.getloli.com/get/@:allenthomas01" alt=":name" width="30%" height="30%" />
 
 <img src="https://komarev.com/ghpvc/?username=allenthomas01&style=flat-square&label=Visitors" width="0.1%" height="0.1%"/>
-
-
-
+ old profile views comment end -->
+ 
 ![animated profile](https://github.com/allenthomas01/allenthomas01/assets/82997175/dd0d1495-b353-4541-9f7f-0cbc2702af5d)
 
-<hr style="border:2px solid gray">
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=allenthomas01" alt="allenthomas01" /></a> </p>
 
-### 🖤 Open Source Advocate &nbsp; | &nbsp; Software Developer | &nbsp; CSE Graduate
+- 🔭 I’m currently working on **my projects**
+
+- 🌱 I’m currently learning **React,Nodejs,Express.js,web development in detail**
+
+- 👨‍💻 My portfolio is available at [allenthomas.tech](allenthomas.tech)
+
+- 📝 I write articles on [https://dev.to/allenthomas](https://dev.to/allenthomas)
+
+- 💬 Ask me about **Software Development,Web,CLI,Linux,FOSS....**
+
+- 📫 How to reach me **allen.thomas.cse@gmail.com**
+
+- 📄 You can find my resume here [allenthomas.tech](allenthomas.tech)
+
+- ⚡ Fun fact **I love movies.**
+
+<!-- comment start for blog import from dev.to using github actions
+### Blogs posts
+ BLOG-POST-LIST:START 
+ BLOG-POST-LIST:END 
+
+comment end for blog import from dev.to using github actions -->
+
+<h3 align="left">Stay in touch:</h3>
+<p align="left">
+<a href="https://dev.to/allenthomas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="allenthomas" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/allenthomas01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="allenthomas01" height="30" width="40" /></a>
+<a href="https://medium.com/@allenthomas204" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@allenthomas204" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/allenthomas01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="allenthomas01" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools I've Played Around With:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=allenthomas01&show_icons=true&theme=dracula&locale=en&layout=compact" alt="allenthomas01" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=allenthomas01&show_icons=true&theme=dracula&locale=en" alt="allenthomas01" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=allenthomas01&theme=dark" alt="allenthomas01" /></p>
+
+
+
+
+
+
+
+<!-- ### 🖤 Open Source Advocate &nbsp; | &nbsp; Software Developer | &nbsp; CSE Graduate
 - 🌟 About Me: &nbsp;
  
   > - __As a highly motivated and ambitious Software Engineer, I love designing solutions where I can apply my problem solving skills and passion for the field.__
@@ -20,9 +69,9 @@
 - 🌱 I’m currently learning: __MongoDB,Nodejs,PostgreSQL__
 - 💬 Ask me about: __Software development,Web,CL,Linux,FOSS,Stories.....__
 - 🌩️ Fun fact: __I love tweaking software and customising it. So I play around them a lot.__
-- ⚡ Super Fun fact: __Linux is my favourite playground! and NO, I don't use Arch btw 🙃__
+- ⚡ Super Fun fact: __Linux is my favourite playground! and NO, I don't use Arch btw 🙃__ -->
 
-
+<!-- 
  <hr style="border:2px solid gray">
 
 ### 📧 Stay in touch:
@@ -49,7 +98,7 @@
 
 
 
-###  <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='24'> My GitHub Stats
+###  <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='24'> My GitHub Stats -->
 <!--
 <table>
     <tr>
@@ -70,7 +119,7 @@
     </tr>
 </table>
 -->
-
+<!-- 
 <p align="center">&nbsp;
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=allenthomas01&theme=radical" width=49%/>
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=allenthomas01&theme=tokyonight&show_icons=true" width=49%/>
@@ -79,7 +128,7 @@
 <p align="center">&nbsp;
 <img src="https://github-profile-trophy.vercel.app/?username=allenthomas01&theme=tokyonight&row=3&column=4&no-bg=true" height=45%/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=allenthomas01&theme=tokyonight&langs_count=10&layout=compact&hide=jupyter%20notebook,dart,html,css" height=45%/>
-</p>
+</p> -->
 <!-- COMMENTING OUT ANURAGHAZRA'S README STATS 
 <img src="https://github-readme-stats.vercel.app/api?username=allenthomas01&show_icons=true&theme=tokyonight&rank_icon=github&count_private=true"/>
 -->
@@ -93,7 +142,7 @@
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME" />
 
 -->
-
+<!-- 
 ### 💻 Tools and Tech I've Played Around With
 
 <table>
@@ -147,7 +196,7 @@
         </td>
     </tr>
 </table>
-
+ -->
 
 <br/>
 <hr style="border:2px solid gray">
@@ -161,12 +210,12 @@
   <img src="https://github.com/allenthomas01/allenthomas01/blob/output/github-contribution-grid-snake.gif"/>
 </picture>
 
-
+<!-- 
 ### 🚀 Favourite Repositories
 <a href="https://github.com/allenthomas01/YoutubeDownloader">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=allenthomas01&repo=YoutubeDownloader&theme=apprentice&show_owner=true" />
 </a>
-
+ -->
 
 
 <hr style="border:2px solid gray">
