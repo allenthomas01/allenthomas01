@@ -8,8 +8,11 @@
 
 <img src="https://komarev.com/ghpvc/?username=allenthomas01&style=flat-square&label=Visitors" width="0.1%" height="0.1%"/>
  old profile views comment end -->
+
  
-![animated profile](https://github.com/allenthomas01/allenthomas01/assets/82997175/dd0d1495-b353-4541-9f7f-0cbc2702af5d)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=1B8EFF&background=2CFEE100&width=600&lines=I+am+a+passionate+Software+Engineer%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;and+Open+Source+Advocate.;I+tinker+with+software+to+craft+solutions%2C;to+problems+i+created.+(most+of+them)+%F0%9F%99%83;May+the+FOSS+be+with+you+%F0%9F%A4%96)](https://git.io/typing-svg)
+ 
+<!--  ![animated profile](https://github.com/allenthomas01/allenthomas01/assets/82997175/dd0d1495-b353-4541-9f7f-0cbc2702af5d)  -->
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=allenthomas01" alt="allenthomas01" /></a> </p>
 
